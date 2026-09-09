@@ -2,12 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hanan%20Kalathil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Student%20·%20Developer%20·%20Builder&descAlignY=62&descSize=18" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Design.+Build.+Improve.;Always+building+something+new." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Design.+Build.+Improve.;Always+building+something+new.;Currently+shipping+something+new..." alt="Typing animation"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/repositories-20-1a1a1a?style=flat-square" alt="Repositories"/>
 <img src="https://komarev.com/ghpvc/?username=hanankalathil&style=flat-square&color=1a1a1a&label=profile+views" alt="Profile views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20&animation=fadeIn" width="100%" alt="divider"/>
 
 </div>
 
@@ -16,6 +20,16 @@
 ## About
 
 Interested in web development, UI/UX, bots, and automation. I like starting from an idea, shipping a working version fast, and improving it from there.
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=IDEA+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE+%E2%86%92+SHIP+%F0%9F%9A%80" alt="Process typing animation"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20&animation=fadeIn" width="100%" alt="divider"/>
+</div>
 
 <br>
 
