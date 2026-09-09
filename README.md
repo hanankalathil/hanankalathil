@@ -21,30 +21,58 @@ Interested in web development, UI/UX, bots, and automation. I like starting from
 
 ## 🧩 Showcase
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🛠️ t-administrator](https://github.com/hanankalathil/t-administrator)
+Administration-focused web project.
+<br><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [💕 Valentine's Love Calculator](https://github.com/hanankalathil/-Valentines-Love-Calculator)
+A fun interactive web experience.
+<br><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧑‍💻 futuristic-portfolio](https://github.com/hanankalathil/futuristic-portfolio)
+A futuristic personal portfolio concept.
+<br><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [🔐 hackingtool](https://github.com/hanankalathil/hackingtool)
+A shell-based learning project.
+<br><img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🏥 madical-shop-bot](https://github.com/hanankalathil/madical-shop-bot)
+A web-based assistant-style project.
+<br><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [🥗 nutrikapz-bot](https://github.com/hanankalathil/nutrikapz-bot)
+An interactive JavaScript bot project.
+<br><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/hanankalathil/t-administrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=t-administrator&theme=tokyonight&hide_border=true" alt="t-administrator"/>
-</a>
-<a href="https://github.com/hanankalathil/-Valentines-Love-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=-Valentines-Love-Calculator&theme=tokyonight&hide_border=true" alt="Valentine's Love Calculator"/>
-</a>
-<br>
-<a href="https://github.com/hanankalathil/futuristic-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=futuristic-portfolio&theme=tokyonight&hide_border=true" alt="futuristic-portfolio"/>
-</a>
-<a href="https://github.com/hanankalathil/hackingtool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=hackingtool&theme=tokyonight&hide_border=true" alt="hackingtool"/>
-</a>
-<br>
-<a href="https://github.com/hanankalathil/madical-shop-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=madical-shop-bot&theme=tokyonight&hide_border=true" alt="madical-shop-bot"/>
-</a>
-<a href="https://github.com/hanankalathil/nutrikapz-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=nutrikapz-bot&theme=tokyonight&hide_border=true" alt="nutrikapz-bot"/>
-</a>
-
-<br><br>
 
 **[View all repositories →](https://github.com/hanankalathil?tab=repositories)**
 
