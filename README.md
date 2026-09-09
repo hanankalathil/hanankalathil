@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hanan Kalathil
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hanan%20Kalathil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Student%20·%20Developer%20·%20Builder&descAlignY=62&descSize=18" width="100%" alt="Header"/>
 
-Student · Developer · Builder
-
-I turn ideas into things people can actually use — mostly on the web.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Design.+Build.+Improve.;Always+building+something+new." alt="Typing animation"/>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/badge/repositories-20-black?style=flat-square)](https://github.com/hanankalathil?tab=repositories)
-<img src="https://komarev.com/ghpvc/?username=hanankalathil&style=flat-square&color=black&label=views" alt="Profile views"/>
+<img src="https://img.shields.io/badge/repositories-20-1a1a1a?style=flat-square" alt="Repositories"/>
+<img src="https://komarev.com/ghpvc/?username=hanankalathil&style=flat-square&color=1a1a1a&label=profile+views" alt="Profile views"/>
 
 </div>
 
@@ -19,41 +17,89 @@ I turn ideas into things people can actually use — mostly on the web.
 
 Interested in web development, UI/UX, bots, and automation. I like starting from an idea, shipping a working version fast, and improving it from there.
 
-## Projects
+<br>
 
-| Project | Description | Stack |
-|---|---|---|
-| [t-administrator](https://github.com/hanankalathil/t-administrator) | Administration-focused web project | HTML |
-| [Valentine's Love Calculator](https://github.com/hanankalathil/-Valentines-Love-Calculator) | Fun interactive web experience | HTML |
-| [futuristic-portfolio](https://github.com/hanankalathil/futuristic-portfolio) | Personal portfolio concept | CSS |
-| [hackingtool](https://github.com/hanankalathil/hackingtool) | Shell-based learning project | Shell |
-| [madical-shop-bot](https://github.com/hanankalathil/madical-shop-bot) | Web-based assistant-style project | HTML |
-| [nutrikapz-bot](https://github.com/hanankalathil/nutrikapz-bot) | Interactive JavaScript bot | JavaScript |
-
-## Tech Stack
-
-`HTML` `CSS` `JavaScript` `Shell` `Git` `GitHub` `VS Code`
-
-## GitHub Stats
+## 🧩 Showcase
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanankalathil&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanankalathil&hide_border=true&theme=default" height="150" alt="GitHub streak"/>
+<a href="https://github.com/hanankalathil/t-administrator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=t-administrator&theme=tokyonight&hide_border=true" alt="t-administrator"/>
+</a>
+<a href="https://github.com/hanankalathil/-Valentines-Love-Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=-Valentines-Love-Calculator&theme=tokyonight&hide_border=true" alt="Valentine's Love Calculator"/>
+</a>
+<br>
+<a href="https://github.com/hanankalathil/futuristic-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=futuristic-portfolio&theme=tokyonight&hide_border=true" alt="futuristic-portfolio"/>
+</a>
+<a href="https://github.com/hanankalathil/hackingtool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=hackingtool&theme=tokyonight&hide_border=true" alt="hackingtool"/>
+</a>
+<br>
+<a href="https://github.com/hanankalathil/madical-shop-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=madical-shop-bot&theme=tokyonight&hide_border=true" alt="madical-shop-bot"/>
+</a>
+<a href="https://github.com/hanankalathil/nutrikapz-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanankalathil&repo=nutrikapz-bot&theme=tokyonight&hide_border=true" alt="nutrikapz-bot"/>
+</a>
+
+<br><br>
+
+**[View all repositories →](https://github.com/hanankalathil?tab=repositories)**
 
 </div>
 
-## Currently
+<br>
 
-- Building new projects
-- Learning new technologies
-- Improving UI/UX
-- Exploring automation
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bash,github,vscode&perline=6" alt="Tech stack"/>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hanankalathil&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanankalathil&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanankalathil&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
+<br>
+
+## 🌱 Currently
+
+- 🔨 Building new projects
+- 🧠 Learning new technologies
+- 🎨 Improving UI/UX
+- 🤖 Exploring automation
 
 <br>
 
 <div align="center">
 
-**[View all repositories →](https://github.com/hanankalathil?tab=repositories)**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="Footer"/>
 
 </div>
